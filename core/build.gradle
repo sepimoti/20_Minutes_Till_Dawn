@@ -1,0 +1,24 @@
+plugins {
+  id 'java-library'
+}
+
+repositories {
+  mavenCentral()
+}
+
+dependencies {
+  api "com.badlogicgames.gdx:gdx:$gdxVersion"
+
+  if(enableGraalNative == 'true') {
+    implementation "io.github.berstanio:gdx-svmhelper-annotations:$graalHelperVersion"
+  }
+
+  implementation 'com.fasterxml.jackson.core:jackson-databind:2.17.0'
+  implementation 'com.fasterxml.jackson.core:jackson-core:2.17.0'
+  implementation 'com.fasterxml.jackson.core:jackson-annotations:2.17.0'
+  implementation "com.badlogicgames.gdx:gdx-freetype:1.13.5"
+  implementation "com.badlogicgames.gdx:gdx-freetype-platform:1.13.5:natives-desktop"
+}
+
+[compileJava, compileTestJava]*.options*.encoding = 'UTF-8'
+eclipse.project.name = appName + '-core'

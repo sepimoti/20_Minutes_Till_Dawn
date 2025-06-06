@@ -1,0 +1,85 @@
+[ {
+  "username" : "SepiMoti",
+  "password" : "Sepehr#1385",
+  "securityQuestion" : "What city were you born in?",
+  "securityAnswer" : "Tehran",
+  "avatar" : "DIAMOND",
+  "customAvatarPath" : null,
+  "settings" : {
+    "musicVolume" : 0.5,
+    "currentMusic" : "WASTELAND_COMBAT",
+    "keyBindings" : {
+      "reload" : 46,
+      "left" : 29,
+      "up" : 51,
+      "right" : 32,
+      "down" : 47
+    }
+  },
+  "score" : 11178,
+  "kills" : 296,
+  "maxSurvivalTime" : 500
+}, {
+  "username" : "Sam",
+  "password" : "Saman#1389",
+  "securityQuestion" : "What city were you born in?",
+  "securityAnswer" : "Tehran",
+  "avatar" : "DIAMOND",
+  "customAvatarPath" : null,
+  "settings" : {
+    "musicVolume" : 0.5,
+    "currentMusic" : "DARK_AMBIENT",
+    "keyBindings" : {
+      "reload" : 46,
+      "left" : 29,
+      "up" : 51,
+      "right" : 32,
+      "down" : 47
+    }
+  },
+  "score" : 50,
+  "kills" : 300,
+  "maxSurvivalTime" : 200
+}, {
+  "username" : "Mammad",
+  "password" : "sdfaSAdf122@",
+  "securityQuestion" : "What city were you born in?",
+  "securityAnswer" : "Tehran",
+  "avatar" : "DIAMOND",
+  "customAvatarPath" : null,
+  "settings" : {
+    "musicVolume" : 0.5,
+    "currentMusic" : "DARK_AMBIENT",
+    "keyBindings" : {
+      "reload" : 46,
+      "left" : 29,
+      "up" : 51,
+      "right" : 32,
+      "down" : 47
+    }
+  },
+  "score" : 0,
+  "kills" : 0,
+  "maxSurvivalTime" : 0
+}, {
+  "username" : "Gholi",
+  "password" : "ljsdsDsas12@",
+  "securityQuestion" : "What city were you born in?",
+  "securityAnswer" : "Tehran",
+  "avatar" : "DIAMOND",
+  "customAvatarPath" : null,
+  "settings" : {
+    "musicVolume" : 0.5,
+    "currentMusic" : "DARK_AMBIENT",
+    "keyBindings" : {
+      "reload" : 46,
+      "left" : 29,
+      "up" : 51,
+      "right" : 32,
+      "down" : 47
+    }
+  },
+  "score" : 500,
+  "kills" : 50,
+  "maxSurvivalTime" : 600
+} ]
